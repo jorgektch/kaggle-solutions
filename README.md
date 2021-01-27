@@ -1,5 +1,7 @@
 # Kaggle Solutions
-Solution of Kaggle Competitions, using only Python
+Solutions of Kaggle Competitions, built with Python only.
 
 # Kaggle
-Kaggle, a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners. Visit: www.kaggle.com
+Kaggle, a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners.
+
+Visit: www.kaggle.com
